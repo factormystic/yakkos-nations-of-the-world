@@ -1,3 +1,9 @@
+Watch the animation
+---------
+[Yakko's Nations of the World](http://factormystic.net/utils/data-vis/yakkos-nations-of-the-world/)
+
+
+
 Build Log
 ---------
 
